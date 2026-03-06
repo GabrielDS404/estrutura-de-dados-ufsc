@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/bruno/OneDrive/Documentos/facul/projetos/v2-c++/t3-MinhaArvoreAVL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\bruno\\OneDrive\\Documentos\\facul\\projetos\\v2-c++\\t3-MinhaArvoreAVL\\main.cpp",
+  "file": "C:\\Users\\bruno\\OneDrive\\Documentos\\facul\\projetos\\v2-c++\\t3-MinhaArvoreAVL\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
